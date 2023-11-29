@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "username": "Simon",
+        "password": "12345",
+        "followers": [],
+        "following": []
+    },
+    {
+        "id": 2,
+        "username": "simonescano",
+        "password": "brother",
+        "followers": [],
+        "following": []
+    }
+]

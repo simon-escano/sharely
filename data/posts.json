@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "user": {
+            "id": 2,
+            "username": "simonescano",
+            "password": "brother",
+            "followers": [],
+            "following": []
+        },
+        "title": "Bruh",
+        "body": "Hello",
+        "date": "2023-11-29 07:47:41",
+        "likes": [],
+        "comments": []
+    },
+    {
+        "id": 2,
+        "user": {
+            "id": 2,
+            "username": "simonescano",
+            "password": "brother",
+            "followers": [],
+            "following": []
+        },
+        "title": "Bruh",
+        "body": "Hello",
+        "date": "2023-11-29 07:47:49",
+        "likes": [],
+        "comments": []
+    }
+]

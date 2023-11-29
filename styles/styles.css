@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+button {
+  cursor: pointer;
+  border: none;
+  outline: none;
+}
+
+#header {
+  display: flex;
+  justify-content: space-between;
+  background-color: black;
+  height: 65px;
+}
+
+#header > section > p {
+  color: white;
+}
